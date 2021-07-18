@@ -1,0 +1,15 @@
+D:\CODE\SnakeGameWPF\SnakeGameWPF\bin\Debug\SnakeGameWPF.exe.config
+D:\CODE\SnakeGameWPF\SnakeGameWPF\bin\Debug\SnakeGameWPF.exe
+D:\CODE\SnakeGameWPF\SnakeGameWPF\bin\Debug\SnakeGameWPF.pdb
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\MainWindow.g.cs
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\App.g.cs
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF_MarkupCompile.cache
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF_MarkupCompile.lref
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\MainWindow.baml
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.g.resources
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.Properties.Resources.resources
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.csproj.GenerateResource.cache
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.csproj.CoreCompileInputs.cache
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.exe
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.pdb
+D:\CODE\SnakeGameWPF\SnakeGameWPF\obj\Debug\SnakeGameWPF.csproj.AssemblyReference.cache
